@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Make Progress",
+  "base_artist": "gable",
+  "createdAt": "2025-12-02T11:29:35.374018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stars Make Progress",
+      "artist": "Thirteen Senses",
+      "has_synced": true,
+      "path": "select/01_Stars_Make_Progress_Thirteen_Senses.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Make Progress",
+      "artist": "gable",
+      "has_synced": false,
+      "path": "select/pl_01_Make_Progress_gable.txt"
+    }
+  ]
+}
